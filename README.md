@@ -1,8 +1,10 @@
-﻿# shenanigan
+# shenanigan
 
 NLP & Applications Lab — Assignments 1 to 10, one Python file per experiment.
 Each file starts with a **CONCEPTS** block (theory) and install commands, and the code is commented step by step.
 The full report with outputs is in [NLP_Lab_Assignments_1-10_Tushar_Parlikar_final.pdf](NLP_Lab_Assignments_1-10_Tushar_Parlikar_final.pdf).
+
+Simpler Jupyter notebook versions of all 10 experiments are in [ipynb/](ipynb/).
 
 ## Index
 
